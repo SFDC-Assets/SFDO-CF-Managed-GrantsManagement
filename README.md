@@ -1,4 +1,4 @@
-# About
+## About
 
 This is the Grants Management Campfire Template Repository.
 
@@ -15,4 +15,9 @@ e.g. To Update from 3 days to 7, it would look like this sfdx force:org:create -
 ## Related Quip Doc
 
 https://salesforce.quip.com/fu2QAlSw2VrD
+
+
+## Legal
+
+Note that is only for use by Salesforce and Salesforce.org for the purposes of our internal sessions.
 
